@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "amadeus.client.id",
+    "type": "java.lang.String",
+    "description": "Amadeus API client ID"
+  },
+  {
+    "name": "amadeus.client.secret",
+    "type": "java.lang.String",
+    "description": "Amadeus API client secret"
+  }
+]}

@@ -1,0 +1,40 @@
+.logo {
+    width: auto;
+    height: 100px;
+    margin-right: 5px;
+    padding-bottom: 4px;
+}
+
+.ospd {
+    font-size: 30px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    vertical-align: bottom;
+}
+
+.navbar {
+    background-color: #252a3b;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.07);
+    height: 100px;
+}
+
+.nav-text {
+    padding-top: 10px;
+    padding-right: 18px;
+    padding-bottom: 10px;
+    color: #ffffff !important;
+}
+
+.toggle-button:focus {
+    outline: none !important;
+}
+
+.navbar-toggler{
+    background-color: white !important;
+}
+
+.collapse-navbar {
+    background: #252a3b !important;
+    z-index: 1;
+}
